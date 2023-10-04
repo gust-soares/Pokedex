@@ -9,7 +9,7 @@
 
 body {
     text-align: center;
-    background: linear-gradient(to bottom, #48d7de, #fff);
+    background: linear-gradient(to bottom, #21aa61, #fff);
     min-height: 100vh;
 }
 
@@ -94,6 +94,7 @@ main {
     box-shadow: -2px 3px 0 #222, -4px 6px 0 #000;
 
 }
+
 .button:active {
     box-shadow: inset -4px 4px #222;
     font-size: 0.9rem;
